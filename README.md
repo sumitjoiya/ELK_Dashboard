@@ -38,18 +38,21 @@ The dashboard aims to:
 - **Right panel**: Relationship between active cases, recovery cases, and death cases over time  
 - Current positioning effectively shows both current status and historical trends  
 
-#### **ELK2**  
+#### ![ELK3](https://github.com/user-attachments/assets/5b68c667-d7c4-471b-b215-5743f238e443)
+
 - **Left panel**: Death statistics by ISO code  
 - **Right panel**: Comparison of recovery rates vs. fatality rates across islands  
 - Positioning allows for direct comparison of mortality-related metrics  
 
-#### **ELK3**  
+#### ![ELK2](https://github.com/user-attachments/assets/99b9ce44-8437-4dcd-8e02-c97a8da58926)
+
 - **Left panel**: Average deaths by location  
 - **Center panel**: Fatality rates versus population by ISO code  
 - **Right panel**: Key metrics (3.9% fatality rate, 8m population)  
 - Current arrangement effectively presents mortality analysis from different angles  
 
-#### **ELK4**  
+#### ![ELK1](https://github.com/user-attachments/assets/47ad7719-5299-40b4-9388-6c1bc439e322)
+
 - **Top row**: Key metrics:  
   - Total cases: **29,927**  
   - Deaths: **5,147**  
@@ -59,7 +62,8 @@ The dashboard aims to:
 - **Bottom row**:  
   - Distribution of cases by ISO code  
   - New cases by location  
-- Layout provides a clear summary dashboard with the most important metrics  
+
+https://github.com/user-attachments/assets/509e0455-341a-464a-ad40-8f46315b2951
 
 ---
 
@@ -104,24 +108,3 @@ The dashboard aims to:
    - Implement data-driven decision-making protocols for future health crises  
 
 ---
-
-## 5. Recommendations for Dashboard Enhancement
-
-1. **Visual Improvements**:  
-   - Add trend indicators for key metrics  
-   - Include vaccination data if available  
-   - Implement interactive filtering capabilities  
-
-2. **Additional Features**:  
-   - Add predictive analytics components  
-   - Include healthcare capacity indicators  
-   - Incorporate testing data visualization  
-
-3. **Data Updates**:  
-   - Implement real-time data updates  
-   - Add data quality indicators  
-   - Include data source references  
-
----
-
-The dashboard effectively serves its purpose as a comprehensive COVID-19 monitoring tool, providing valuable insights for decision-makers at both national and provincial levels.
