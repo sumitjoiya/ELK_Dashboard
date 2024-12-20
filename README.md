@@ -35,11 +35,11 @@ The dashboard aims to:
 #### ![ELK4](https://github.com/user-attachments/assets/5e8903de-954d-4cf8-90f7-9f0eaecf2631)
   
 - **Left panel**: Newly recovered patients by province, highlighting regional recovery patterns'
-- **Right panel**: Relationship between active cases, recovery cases, and death cases over time.
-                   Total cases reached 1.2 million at peak
-                   Active cases peaked at approximately 200,000
-                   Recovery cases show steady growth, reaching 1.1 million
-                   Death cases maintained relatively stable growth, reaching around 50,000 
+- **Right panel**: -Relationship between active cases, recovery cases, and death cases over time.
+                   -Total cases reached 1.2 million at peak
+                   -Active cases peaked at approximately 200,000
+                   -Recovery cases show steady growth, reaching 1.1 million
+                   -Death cases maintained relatively stable growth, reaching around 50,000 
 - Current positioning effectively shows both current status and historical trends  
 
 #### ![ELK3](https://github.com/user-attachments/assets/5b68c667-d7c4-471b-b215-5743f238e443)
