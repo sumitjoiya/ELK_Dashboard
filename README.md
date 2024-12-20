@@ -32,9 +32,8 @@ The dashboard aims to:
 
 ## 3. Dashboard Analysis
 
-### Layout Analysis (ELK1 to ELK4)
-
-#### **ELK1**  
+#### ![ELK4](https://github.com/user-attachments/assets/5e8903de-954d-4cf8-90f7-9f0eaecf2631)
+  
 - **Left panel**: Newly recovered patients by province, highlighting regional recovery patterns  
 - **Right panel**: Relationship between active cases, recovery cases, and death cases over time  
 - Current positioning effectively shows both current status and historical trends  
