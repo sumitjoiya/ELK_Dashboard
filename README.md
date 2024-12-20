@@ -35,11 +35,11 @@ The dashboard aims to:
 #### ![ELK4](https://github.com/user-attachments/assets/5e8903de-954d-4cf8-90f7-9f0eaecf2631)
   
 - **Left panel**: Newly recovered patients by province, highlighting regional recovery patterns'
-- **Right panel**: -Relationship between active cases, recovery cases, and death cases over time.
-                   -Total cases reached 1.2 million at peak
-                   -Active cases peaked at approximately 200,000
-                   -Recovery cases show steady growth, reaching 1.1 million
-                   -Death cases maintained relatively stable growth, reaching around 50,000 
+- **Right panel**: Relationship between active cases, recovery cases, and death cases over time.
+                   Total cases reached 1.2 million at peak'
+                   Active cases peaked at approximately 200,000.
+                   Recovery cases show steady growth, reaching 1.1 million.
+                   Death cases maintained relatively stable growth, reaching around 50,000.
 - Current positioning effectively shows both current status and historical trends  
 
 #### ![ELK3](https://github.com/user-attachments/assets/5b68c667-d7c4-471b-b215-5743f238e443)
@@ -51,8 +51,12 @@ The dashboard aims to:
 #### ![ELK2](https://github.com/user-attachments/assets/99b9ce44-8437-4dcd-8e02-c97a8da58926)
 
 - **Left panel**: Average deaths by location  
-- **Center panel**: Fatality rates versus population by ISO code  
-- **Right panel**: Key metrics (3.9% fatality rate, 8m population)  
+- **Center panel**: Fatality rates versus population by ISO code.ISO Code ID-JI shows highest fatality rate (>0.078).
+ID-JT and ID-BT follow with rates between 0.066-0.078 .
+Most regions maintain rates between 0.028-0.04 .
+- **Right panel**: Key metrics (3.9% fatality rate, 8m population) .
+                  Overall fatality rate: 3.9% .
+                  Affected population: 8 million.
 - Current arrangement effectively presents mortality analysis from different angles  
 
 #### ![ELK1](https://github.com/user-attachments/assets/47ad7719-5299-40b4-9388-6c1bc439e322)
